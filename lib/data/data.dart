@@ -1,7 +1,7 @@
 import 'package:wallpaper_app/model/categories_model.dart';
 
 String apiKey = "Your_API_Key";
-
+// Add an api key , get yourself a freee apikey from pexels official website
 List<CategoriesModel> getCategories() {
   List<CategoriesModel> categories = List();
   CategoriesModel categoriesModel = CategoriesModel();
